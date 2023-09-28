@@ -18,6 +18,6 @@ porcentajeCumplen = (contadorPersonasPasan/totalPersonas)*100;
 promedioEdad = acumuladorEdad/contadorPersonasPasan;
 promedioEstatura = acumuladorEstatura/contadorPersonasPasan;
 
-alert("El porcetaje de personas que cumplen con las condiciones dadas es el " +porcentajeCumplen + "%");
+alert("El porcentaje de personas que cumplen con las condiciones dadas es el " +porcentajeCumplen + "%");
 alert("El promedio de edad de las personas que cumplen las condiciones es " +promedioEdad + " años");
 alert("El promedio de estatura de las personas que cumplen las condiciones es " +promedioEstatura + " cms");
